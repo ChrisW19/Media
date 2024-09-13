@@ -35,24 +35,69 @@
     {
       "id": "c797",
       "name": "Margie Glover"
-    },
-    {
-      "id": "b791",
-      "name": "Sonia Raynor"
-    },
-    {
-      "id": "14aa",
-      "name": "Margaret Homenick"
-    },
-    {
-      "id": "913a",
-      "name": "Steve Stiedemann"
-    },
-    {
-      "id": "31d4",
-      "name": "Lorene Walsh"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Somewhere",
+      "userId": 1
+    },
+    {
+      "id": "a77a",
+      "userId": "1",
+      "title": "Elegant Bronze Pizza"
+    },
+    {
+      "id": "8467",
+      "userId": "1",
+      "title": "Elegant Soft Table"
+    },
+    {
+      "id": "c018",
+      "userId": "1",
+      "title": "Bespoke Soft Pants"
+    },
+    {
+      "id": "584b",
+      "userId": "1",
+      "title": "Ergonomic Rubber Ball"
+    },
+    {
+      "id": "1990",
+      "userId": "1",
+      "title": "Unbranded Granite Ball"
+    },
+    {
+      "id": "ec82",
+      "userId": "1",
+      "title": "Fantastic Steel Tuna"
+    },
+    {
+      "id": "92f0",
+      "userId": "1",
+      "title": "Ergonomic Bronze Tuna"
+    },
+    {
+      "id": "d15f",
+      "userId": "1",
+      "title": "Awesome Metal Cheese"
+    },
+    {
+      "id": "d037",
+      "userId": "1",
+      "title": "Generic Metal Cheese"
+    },
+    {
+      "id": "c6a6",
+      "userId": "2675",
+      "title": "Incredible Bronze Shoes"
+    },
+    {
+      "id": "1889",
+      "userId": "d29d",
+      "title": "Sleek Fresh Shirt"
+    }
+  ],
   "photos": []
 }
