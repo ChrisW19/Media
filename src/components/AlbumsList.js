@@ -20,7 +20,7 @@ function AlbumsList ({user}) {
     } else {
         content = data.map(album => {
            return <AlbumsListItem key={album.id} album={album} />
-        })
+        });
     }
 
     return <div>
